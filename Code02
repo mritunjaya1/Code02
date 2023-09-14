@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<title>Online HTML Editor</title>
+<head>
+</head>
+<body>
+<h1>Online HTML Editor</h1>
+<div>This is real time online HTML Editor</div>
+<!DOCTYPE html>
+<html>
+<title>Online HTML Editor</title>
+<head>
+</head>
+<body>
+    <style>
+    body {
+  background-color: lightblue;
+}
+th{
+  background-color: red;
+}
+tr{
+  background-color:yellow;
+}
+
+}
+</style>
+<h1>Online HTML Editor</h1>
+<div>This is real time online HTML Editor</div>
+
+<table border="1">
+    <thead>
+        <th>no</th>
+        <th>full name</th>
+        <th>position</th>
+        <th>salary</th>
+        <th>type</th>
+    </thead>
+    <tr>
+        <td>1</td>
+        <td>bill gates</td>
+        <td>founder macrosoft</td>
+        <td>1000$</td>
+       <td rowspan="4">company founder</td>
+        
+     </tr>
+       <tr>
+        <td>2</td>
+        <td>bill gates</td>
+        <td>founder macrosoft</td>
+        <td>1000$</td>
+       
+        
+     </tr>
+       <tr>
+        <td>3</td>
+        <td>bill gates</td>
+        <td>founder macrosoft</td>
+        <td>1000$</td>
+       
+        
+     </tr>
+       <tr>
+        <td>4</td>
+        <td>bill gates</td>
+        <td>founder macrosoft</td>
+        <td>1000$</td>
+       
+        
+     </tr>
+     <tfoot>
+     <tr>
+         <td colspan="3">totel expense </td>
+         <td>4000$</td>
+       </tfoot>
+     </tr>
+    
+        
+        
+ 
+    
+    
+</table>
+
+</body>
+</html>
+</body>
+</html>
